@@ -133,6 +133,7 @@ npm run dev     # Starts on http://localhost:5173
    - **Start command:** `npm start`
 4. Add environment variables (from `.env`)
 5. Deploy — note your live URL (e.g. `https://golf-charity-api.onrender.com`)
+   - Live URL: `https://golf-charity-ib6t.onrender.com/`
 6. After deploy: open Render shell and run `node seed.js`
 
 ### Frontend → Vercel (Free tier)
@@ -146,6 +147,7 @@ npm run dev     # Starts on http://localhost:5173
 4. Add environment variable:
    - `VITE_API_URL` = your Render backend URL
 5. Deploy
+   - Live URL: `https://golf-charity-5r8pqdid2-swethaedagottu4-1644s-projects.vercel.app/`
 
 ---
 
