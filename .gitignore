@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment variables (sensitive)
+.env
+.env.*
+
+# Local env files in subprojects
+backend/.env
+frontend/.env
+
+# OS files
+.DS_Store
+
